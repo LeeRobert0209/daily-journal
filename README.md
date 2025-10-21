@@ -1,2 +1,2 @@
 # daily-journal
-My Daily Journal is the central repository for the structured output and synthesis of my five daily key achievements and learning points.
+The Daily Journal serves as a curated space where I synthesize and document the five most impactful activities, ensuring my daily progress is effectively refined and recorded.
