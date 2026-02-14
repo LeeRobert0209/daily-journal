@@ -20,6 +20,9 @@ __pycache__/
 *.log
 venv/
 .env
+.vscode/
 
 # Codespaces 自动生成的本地配置
 .codespaces/
+
+
